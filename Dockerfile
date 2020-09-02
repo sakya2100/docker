@@ -1,1 +1,1 @@
-FROM jenkinsci/blueocean
+FROM sakya2100/docker
