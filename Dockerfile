@@ -1,1 +1,1 @@
-FROM sakya2100/docker
+FROM gcr.io/istio-testing/keyval:release-1.1
