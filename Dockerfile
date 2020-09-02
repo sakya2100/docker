@@ -1,1 +1,1 @@
-FROM gcr.io/istio-testing/keyval:release-1.1
+FROM gcr.io/kube-apiserver:v1.18.8
